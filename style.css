@@ -1,5 +1,10 @@
+*{
+    margin: 0px;
+}
+
 body{
     height: 100vh;
+    
     background-color: #09090A;
     color: white;
 
