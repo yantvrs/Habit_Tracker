@@ -6,7 +6,7 @@ App para usar como assistente de controle de hábitos estudando fundamentos da p
 </p>
 
 <p align="center">
-O projeto foi desenvolvido com base nas orientações dadas no evento $ltnlw&frasl&gt SETUP da Rocketseat
+O projeto foi desenvolvido com base nas orientações dadas no evento &ltnlw&frasl&gt SETUP da Rocketseat
 </p>
 
 
