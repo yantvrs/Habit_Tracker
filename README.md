@@ -6,11 +6,11 @@ App para usar como assistente de controle de hábitos estudando fundamentos da p
 </p>
 
 <p align="center">
-O projeto foi desenvolvido com base nas orientações dadas no evento <nlw/> SETUP da Rocketseat
+O projeto foi desenvolvido com base nas orientações dadas no evento $ltnlw&frasl&gt SETUP da Rocketseat
 </p>
 
 
-<p><a href="https://yantvrs.github.io/Habit_Tracker/index.html">Clique aqui</a> Para acessar a Tela de Login</p>
+<p><a href="https://yantvrs.github.io/Habit_Tracker/index.html">Clique aqui</a> Para acessar o app Habit</p>
 
 <br>
 
@@ -23,4 +23,4 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 <div align="center">Desenvolvido por <a href="https://github.com/yantvrs" >Yan Tavares</a></div>
-
+<div align="center">Para a plataforma de ensino <a href="https://www.rocketseat.com.br/" >Rocketseat</a></div>
