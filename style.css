@@ -55,10 +55,10 @@ input:checked{
 
 }
 
-form{
+#form-habits{
     display: flex;
 
-    padding: 48px;
+    padding: 0 48px;
 }
 
 .habits{
