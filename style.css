@@ -1,5 +1,7 @@
 *{
     margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
 
 body{
@@ -7,9 +9,96 @@ body{
     
     background-color: #09090A;
     color: white;
-
-    display: grid;
-    place-items: center;
     
 }
 
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 48px;
+}
+
+button{
+    font-family: 'Inter';
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 125%;
+    color: white;
+
+    padding: 16px 24px;
+    border-radius: 8px;
+
+    background-color: transparent;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+
+    border: 1.88px solid #8B5CF6
+}
+
+input{
+    appearance: none;
+    -webkit-appearance: none;
+    width: 64px;
+    height: 64px;
+
+    border: 2px solid #27272A;
+    border-radius: 8px;
+}
+
+input:checked{
+    background: #8B5CF6;
+    border: 2px solid #A78BFA;
+
+}
+
+form{
+    display: flex;
+
+    padding: 48px;
+}
+
+.habits{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    
+    gap: 24px;
+}
+
+.habit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+
+    font-size: 32px;
+}
+
+.days{
+    display: flex;
+    margin-left: 32px;
+    gap: 48px;
+}
+
+.day{
+    font-family: 'Roboto Mono', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 125%;
+    color: #A1A1AA;
+
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+
+}
+
+.day div{
+    margin-bottom: 8px;
+}
