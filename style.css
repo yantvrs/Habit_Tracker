@@ -13,6 +13,9 @@ body{
 }
 
 header{
+    width: 100%;;
+    position: fixed;
+    background-color: #09090A;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -58,7 +61,8 @@ input:checked{
 #form-habits{
     display: flex;
 
-    padding: 0 48px;
+    padding: 182px 48px 48px;
+    width: fit-content;
 }
 
 .habits{
@@ -101,4 +105,10 @@ input:checked{
 
 .day div{
     margin-bottom: 8px;
+}
+
+@media(max-width: 570px){
+    button div{
+        display: none;
+    }
 }
