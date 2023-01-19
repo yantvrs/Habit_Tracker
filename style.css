@@ -107,6 +107,18 @@ input:checked{
     margin-bottom: 8px;
 }
 
+footer{
+    color: rgb(165, 158, 158);
+    text-decoration: none;
+    width: 100vw;
+    text-align: center;
+}
+
+a{
+    color: rgb(165, 158, 158);
+    text-decoration: none;
+}
+
 @media(max-width: 570px){
     button div{
         display: none;
