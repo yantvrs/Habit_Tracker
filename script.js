@@ -1,1 +1,2 @@
-alert('Bom dia')
+const mensagem = 'Hello world'
+alert(mensagem)
